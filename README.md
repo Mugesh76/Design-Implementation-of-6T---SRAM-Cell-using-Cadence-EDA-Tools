@@ -8,6 +8,12 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
+Circuit Diagram:
+
+
+![WhatsApp Image 2024-11-13 at 4 26 08 PM (2)](https://github.com/user-attachments/assets/5e78b5d2-40e6-4e23-9042-fe238f61caa2)
+
+
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
